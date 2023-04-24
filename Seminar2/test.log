@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-24T22:42:54.818596900Z</date>
+  <millis>1682376174818</millis>
+  <nanos>596900</nanos>
+  <sequence>0</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.870634800Z</date>
+  <millis>1682376174870</millis>
+  <nanos>634800</nanos>
+  <sequence>1</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.870634800Z</date>
+  <millis>1682376174870</millis>
+  <nanos>634800</nanos>
+  <sequence>2</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.871631700Z</date>
+  <millis>1682376174871</millis>
+  <nanos>631700</nanos>
+  <sequence>3</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.871631700Z</date>
+  <millis>1682376174871</millis>
+  <nanos>631700</nanos>
+  <sequence>4</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.872632200Z</date>
+  <millis>1682376174872</millis>
+  <nanos>632200</nanos>
+  <sequence>5</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.873632700Z</date>
+  <millis>1682376174873</millis>
+  <nanos>632700</nanos>
+  <sequence>6</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.873632700Z</date>
+  <millis>1682376174873</millis>
+  <nanos>632700</nanos>
+  <sequence>7</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.874632900Z</date>
+  <millis>1682376174874</millis>
+  <nanos>632900</nanos>
+  <sequence>8</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.874632900Z</date>
+  <millis>1682376174874</millis>
+  <nanos>632900</nanos>
+  <sequence>9</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 90</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.875632400Z</date>
+  <millis>1682376174875</millis>
+  <nanos>632400</nanos>
+  <sequence>10</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 90</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.875632400Z</date>
+  <millis>1682376174875</millis>
+  <nanos>632400</nanos>
+  <sequence>11</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 90</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.876632800Z</date>
+  <millis>1682376174876</millis>
+  <nanos>632800</nanos>
+  <sequence>12</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 90</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.877632900Z</date>
+  <millis>1682376174877</millis>
+  <nanos>632900</nanos>
+  <sequence>13</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 90</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.877632900Z</date>
+  <millis>1682376174877</millis>
+  <nanos>632900</nanos>
+  <sequence>14</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 90</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.878633700Z</date>
+  <millis>1682376174878</millis>
+  <nanos>633700</nanos>
+  <sequence>15</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 90</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.879236100Z</date>
+  <millis>1682376174879</millis>
+  <nanos>236100</nanos>
+  <sequence>16</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 90</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.879633400Z</date>
+  <millis>1682376174879</millis>
+  <nanos>633400</nanos>
+  <sequence>17</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.879633400Z</date>
+  <millis>1682376174879</millis>
+  <nanos>633400</nanos>
+  <sequence>18</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.880633900Z</date>
+  <millis>1682376174880</millis>
+  <nanos>633900</nanos>
+  <sequence>19</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.880633900Z</date>
+  <millis>1682376174880</millis>
+  <nanos>633900</nanos>
+  <sequence>20</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.882125300Z</date>
+  <millis>1682376174882</millis>
+  <nanos>125300</nanos>
+  <sequence>21</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.882125300Z</date>
+  <millis>1682376174882</millis>
+  <nanos>125300</nanos>
+  <sequence>22</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.883127700Z</date>
+  <millis>1682376174883</millis>
+  <nanos>127700</nanos>
+  <sequence>23</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.883127700Z</date>
+  <millis>1682376174883</millis>
+  <nanos>127700</nanos>
+  <sequence>24</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.884127600Z</date>
+  <millis>1682376174884</millis>
+  <nanos>127600</nanos>
+  <sequence>25</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.885127600Z</date>
+  <millis>1682376174885</millis>
+  <nanos>127600</nanos>
+  <sequence>26</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.885127600Z</date>
+  <millis>1682376174885</millis>
+  <nanos>127600</nanos>
+  <sequence>27</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.886128400Z</date>
+  <millis>1682376174886</millis>
+  <nanos>128400</nanos>
+  <sequence>28</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.886128400Z</date>
+  <millis>1682376174886</millis>
+  <nanos>128400</nanos>
+  <sequence>29</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.887128800Z</date>
+  <millis>1682376174887</millis>
+  <nanos>128800</nanos>
+  <sequence>30</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.887128800Z</date>
+  <millis>1682376174887</millis>
+  <nanos>128800</nanos>
+  <sequence>31</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 89</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.888128800Z</date>
+  <millis>1682376174888</millis>
+  <nanos>128800</nanos>
+  <sequence>32</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.888128800Z</date>
+  <millis>1682376174888</millis>
+  <nanos>128800</nanos>
+  <sequence>33</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.888128800Z</date>
+  <millis>1682376174888</millis>
+  <nanos>128800</nanos>
+  <sequence>34</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.889128500Z</date>
+  <millis>1682376174889</millis>
+  <nanos>128500</nanos>
+  <sequence>35</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.889128500Z</date>
+  <millis>1682376174889</millis>
+  <nanos>128500</nanos>
+  <sequence>36</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.890129300Z</date>
+  <millis>1682376174890</millis>
+  <nanos>129300</nanos>
+  <sequence>37</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.890129300Z</date>
+  <millis>1682376174890</millis>
+  <nanos>129300</nanos>
+  <sequence>38</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.891128600Z</date>
+  <millis>1682376174891</millis>
+  <nanos>128600</nanos>
+  <sequence>39</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.891128600Z</date>
+  <millis>1682376174891</millis>
+  <nanos>128600</nanos>
+  <sequence>40</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.892129100Z</date>
+  <millis>1682376174892</millis>
+  <nanos>129100</nanos>
+  <sequence>41</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.892129100Z</date>
+  <millis>1682376174892</millis>
+  <nanos>129100</nanos>
+  <sequence>42</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.893130200Z</date>
+  <millis>1682376174893</millis>
+  <nanos>130200</nanos>
+  <sequence>43</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.894130100Z</date>
+  <millis>1682376174894</millis>
+  <nanos>130100</nanos>
+  <sequence>44</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.894130100Z</date>
+  <millis>1682376174894</millis>
+  <nanos>130100</nanos>
+  <sequence>45</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 87</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.894130100Z</date>
+  <millis>1682376174894</millis>
+  <nanos>130100</nanos>
+  <sequence>46</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.895129600Z</date>
+  <millis>1682376174895</millis>
+  <nanos>129600</nanos>
+  <sequence>47</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.896130500Z</date>
+  <millis>1682376174896</millis>
+  <nanos>130500</nanos>
+  <sequence>48</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.896344100Z</date>
+  <millis>1682376174896</millis>
+  <nanos>344100</nanos>
+  <sequence>49</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.897130800Z</date>
+  <millis>1682376174897</millis>
+  <nanos>130800</nanos>
+  <sequence>50</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.897130800Z</date>
+  <millis>1682376174897</millis>
+  <nanos>130800</nanos>
+  <sequence>51</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.898102400Z</date>
+  <millis>1682376174898</millis>
+  <nanos>102400</nanos>
+  <sequence>52</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.898102400Z</date>
+  <millis>1682376174898</millis>
+  <nanos>102400</nanos>
+  <sequence>53</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.899097400Z</date>
+  <millis>1682376174899</millis>
+  <nanos>97400</nanos>
+  <sequence>54</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.899097400Z</date>
+  <millis>1682376174899</millis>
+  <nanos>97400</nanos>
+  <sequence>55</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.899097400Z</date>
+  <millis>1682376174899</millis>
+  <nanos>97400</nanos>
+  <sequence>56</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 80</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.900098200Z</date>
+  <millis>1682376174900</millis>
+  <nanos>98200</nanos>
+  <sequence>57</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.901098900Z</date>
+  <millis>1682376174901</millis>
+  <nanos>98900</nanos>
+  <sequence>58</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.901098900Z</date>
+  <millis>1682376174901</millis>
+  <nanos>98900</nanos>
+  <sequence>59</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.901758Z</date>
+  <millis>1682376174901</millis>
+  <nanos>758000</nanos>
+  <sequence>60</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.901758Z</date>
+  <millis>1682376174901</millis>
+  <nanos>758000</nanos>
+  <sequence>61</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.902760500Z</date>
+  <millis>1682376174902</millis>
+  <nanos>760500</nanos>
+  <sequence>62</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.902760500Z</date>
+  <millis>1682376174902</millis>
+  <nanos>760500</nanos>
+  <sequence>63</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.903761100Z</date>
+  <millis>1682376174903</millis>
+  <nanos>761100</nanos>
+  <sequence>64</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.903761100Z</date>
+  <millis>1682376174903</millis>
+  <nanos>761100</nanos>
+  <sequence>65</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 77</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.904761300Z</date>
+  <millis>1682376174904</millis>
+  <nanos>761300</nanos>
+  <sequence>66</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 21</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.904761300Z</date>
+  <millis>1682376174904</millis>
+  <nanos>761300</nanos>
+  <sequence>67</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 69</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.905761500Z</date>
+  <millis>1682376174905</millis>
+  <nanos>761500</nanos>
+  <sequence>68</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 69</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.905761500Z</date>
+  <millis>1682376174905</millis>
+  <nanos>761500</nanos>
+  <sequence>69</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 69</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.905761500Z</date>
+  <millis>1682376174905</millis>
+  <nanos>761500</nanos>
+  <sequence>70</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 69</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.906760900Z</date>
+  <millis>1682376174906</millis>
+  <nanos>760900</nanos>
+  <sequence>71</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.906760900Z</date>
+  <millis>1682376174906</millis>
+  <nanos>760900</nanos>
+  <sequence>72</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.907761600Z</date>
+  <millis>1682376174907</millis>
+  <nanos>761600</nanos>
+  <sequence>73</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 70</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.907761600Z</date>
+  <millis>1682376174907</millis>
+  <nanos>761600</nanos>
+  <sequence>74</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.908761500Z</date>
+  <millis>1682376174908</millis>
+  <nanos>761500</nanos>
+  <sequence>75</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.908761500Z</date>
+  <millis>1682376174908</millis>
+  <nanos>761500</nanos>
+  <sequence>76</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.909761300Z</date>
+  <millis>1682376174909</millis>
+  <nanos>761300</nanos>
+  <sequence>77</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 69</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.909761300Z</date>
+  <millis>1682376174909</millis>
+  <nanos>761300</nanos>
+  <sequence>78</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 69</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.909761300Z</date>
+  <millis>1682376174909</millis>
+  <nanos>761300</nanos>
+  <sequence>79</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 69</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.910761600Z</date>
+  <millis>1682376174910</millis>
+  <nanos>761600</nanos>
+  <sequence>80</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 64</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.910761600Z</date>
+  <millis>1682376174910</millis>
+  <nanos>761600</nanos>
+  <sequence>81</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 64</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.911762400Z</date>
+  <millis>1682376174911</millis>
+  <nanos>762400</nanos>
+  <sequence>82</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 64</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.911762400Z</date>
+  <millis>1682376174911</millis>
+  <nanos>762400</nanos>
+  <sequence>83</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.912763500Z</date>
+  <millis>1682376174912</millis>
+  <nanos>763500</nanos>
+  <sequence>84</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 68</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.912763500Z</date>
+  <millis>1682376174912</millis>
+  <nanos>763500</nanos>
+  <sequence>85</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 51</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.913763700Z</date>
+  <millis>1682376174913</millis>
+  <nanos>763700</nanos>
+  <sequence>86</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 51</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.914763300Z</date>
+  <millis>1682376174914</millis>
+  <nanos>763300</nanos>
+  <sequence>87</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 64</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.915765800Z</date>
+  <millis>1682376174915</millis>
+  <nanos>765800</nanos>
+  <sequence>88</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 66</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.915765800Z</date>
+  <millis>1682376174915</millis>
+  <nanos>765800</nanos>
+  <sequence>89</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.916764800Z</date>
+  <millis>1682376174916</millis>
+  <nanos>764800</nanos>
+  <sequence>90</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.917763400Z</date>
+  <millis>1682376174917</millis>
+  <nanos>763400</nanos>
+  <sequence>91</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 51</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.917763400Z</date>
+  <millis>1682376174917</millis>
+  <nanos>763400</nanos>
+  <sequence>92</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 64</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.918763900Z</date>
+  <millis>1682376174918</millis>
+  <nanos>763900</nanos>
+  <sequence>93</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.919764200Z</date>
+  <millis>1682376174919</millis>
+  <nanos>764200</nanos>
+  <sequence>94</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.919764200Z</date>
+  <millis>1682376174919</millis>
+  <nanos>764200</nanos>
+  <sequence>95</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.920764200Z</date>
+  <millis>1682376174920</millis>
+  <nanos>764200</nanos>
+  <sequence>96</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 51</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.921764600Z</date>
+  <millis>1682376174921</millis>
+  <nanos>764600</nanos>
+  <sequence>97</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.921764600Z</date>
+  <millis>1682376174921</millis>
+  <nanos>764600</nanos>
+  <sequence>98</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.922765Z</date>
+  <millis>1682376174922</millis>
+  <nanos>765000</nanos>
+  <sequence>99</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.922765Z</date>
+  <millis>1682376174922</millis>
+  <nanos>765000</nanos>
+  <sequence>100</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 21</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.923765500Z</date>
+  <millis>1682376174923</millis>
+  <nanos>765500</nanos>
+  <sequence>101</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 43</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.923765500Z</date>
+  <millis>1682376174923</millis>
+  <nanos>765500</nanos>
+  <sequence>102</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 48</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.924764800Z</date>
+  <millis>1682376174924</millis>
+  <nanos>764800</nanos>
+  <sequence>103</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 17</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.924764800Z</date>
+  <millis>1682376174924</millis>
+  <nanos>764800</nanos>
+  <sequence>104</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.925765100Z</date>
+  <millis>1682376174925</millis>
+  <nanos>765100</nanos>
+  <sequence>105</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 43</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.925765100Z</date>
+  <millis>1682376174925</millis>
+  <nanos>765100</nanos>
+  <sequence>106</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 21</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.926765300Z</date>
+  <millis>1682376174926</millis>
+  <nanos>765300</nanos>
+  <sequence>107</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 23</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.926765300Z</date>
+  <millis>1682376174926</millis>
+  <nanos>765300</nanos>
+  <sequence>108</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 21</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.926765300Z</date>
+  <millis>1682376174926</millis>
+  <nanos>765300</nanos>
+  <sequence>109</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 18</message>
+</record>
+<record>
+  <date>2023-04-24T22:42:54.927811900Z</date>
+  <millis>1682376174927</millis>
+  <nanos>811900</nanos>
+  <sequence>110</sequence>
+  <logger>Seminar2.task2</logger>
+  <level>INFO</level>
+  <class>Seminar2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 17</message>
+</record>
+</log>
