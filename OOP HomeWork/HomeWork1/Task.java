@@ -1,8 +1,6 @@
+package HomeWork1;
 import java.util.ArrayList;
 import java.util.List;
-
-import HomeWork1.Product;
-import HomeWork1.VendingMashine;
 
 public class Task {
     public static void main(String[] args) {
